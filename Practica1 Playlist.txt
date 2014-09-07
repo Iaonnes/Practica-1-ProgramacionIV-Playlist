@@ -1,0 +1,212 @@
+<html>
+  <head>
+    <title>Lista de Reproducción</title>
+      </head>
+        <body>
+
+         <div>
+                <h1>Lista de Reproduccion</h1>
+	<h2>Practica1</h2>
+        </div>
+          <div>
+               <a href="nuevo.html">Nuevo</a>
+         </div>
+            <table>
+               <tr>
+                    <th>Numero</th>
+                    <th>Album</th>
+                    <th>Artista</th>
+                    <th>Player</th>
+              </tr>
+                 <tr>
+                         <td>1</td>
+                         <td>Secretos y Revelaciones</td>
+                         <td>Saratoga</td>
+                         <td> <audio src="01 Después De La Tormenta.mp3"controls>
+                                  <p>Tu navegador no implementa el elemento audio</p>
+                         </td>
+                </tr>
+                
+                <tr>
+                         <td>2</td>
+                         <td>Secretos y Revelaciones</td>
+                         <td>Saratoga</td>
+                         <td> <audio src="02 El Planeta Se Apaga.mp3"controls>
+                                  <p>Tu navegador no implementa el elemento audio</p>
+                         </td>
+                </tr>
+              
+                <tr>
+                         <td>3</td>
+                         <td>Secretos y Revelaciones</td>
+                         <td>Saratoga</td>
+                         <td> <audio src="03 Mucho Por Vivir.mp3"controls>
+                                  <p>Tu navegador no implementa el elemento audio</p>
+                         </td>
+                </tr>
+
+               <tr>
+                         <td>4</td>
+                         <td>Secretos y Revelaciones</td>
+                         <td>Saratoga</td>
+                         <td> <audio src="04 Deja Vu.mp3"controls>
+                                  <p>Tu navegador no implementa el elemento audio</p>
+                         </td>
+                </tr>
+
+                <tr>
+                         <td>5</td>
+                         <td>Secretos y Revelaciones</td>
+                         <td>Saratoga</td>
+                         <td> <audio src="05 Cuando Tus Años Te Hagan Llorar.mp3"controls>
+                                  <p>Tu navegador no implementa el elemento audio</p>
+                         </td>
+                </tr>
+
+                <tr>
+                         <td>6</td>
+                         <td>Secretos y Revelaciones</td>
+                         <td>Saratoga</td>
+                         <td> <audio src="06 Almas Sin Descanso.mp3"controls>
+                                  <p>Tu navegador no implementa el elemento audio</p>
+                         </td>
+                </tr>
+
+                <tr>
+                         <td>7</td>
+                         <td>Secretos y Revelaciones</td>
+                         <td>Saratoga</td>
+                         <td> <audio src="07 Luna Llena.mp3"controls>
+                                  <p>Tu navegador no implementa el elemento audio</p>
+                         </td>
+                </tr>
+
+                <tr>
+                         <td>8</td>
+                         <td>Secretos y Revelaciones</td>
+                         <td>Saratoga</td>
+                         <td> <audio src="08 Ojos de Ira.mp3"controls>
+                                  <p>Tu navegador no implementa el elemento audio</p>
+                         </td>
+                </tr>
+
+                <tr>
+                         <td>9</td>
+                         <td>Secretos y Revelaciones</td>
+                         <td>Saratoga</td>
+                         <td> <audio src="09 Mar de Luz.mp3"controls>
+                                  <p>Tu navegador no implementa el elemento audio</p>
+                         </td>
+                </tr>
+
+                <tr>
+                         <td>10</td>
+                         <td>Secretos y Revelaciones</td>
+                         <td>Saratoga</td>
+                         <td> <audio src="10 Jamás Sufriré Por Ti.mp3"controls>
+                                  <p>Tu navegador no implementa el elemento audio</p>
+                         </td>
+                </tr>
+                
+      
+            <table>
+               <tr>
+                    <th>Titulo</th>
+                    <th>Categoria</th>
+	     <th>Video</th>
+              </tr>
+	<p>
+                 <tr>
+                         
+	         <td>OBS</td>
+	         <td>Tutorial</td>
+	         <td> <video src="OBS 02.mp4"controls>
+                                  <p>Tu navegador no implementa el elemento Video</p>
+                         </td>
+                </tr>
+
+	 <tr>
+                         
+	         <td>OBS</td>
+	         <td>Tutorial</td>
+	         <td> <video src="OBS (01).mp4"controls>
+                                  <p>Tu navegador no implementa el elemento Video</p>
+                         </td>
+                </tr>
+
+	 <tr>
+                         
+	         <td>OBS</td>
+	         <td>Tutorial</td>
+	         <td> <video src="OBS (02).mp4"controls>
+                                  <p>Tu navegador no implementa el elemento Video</p>
+                         </td>
+                </tr>
+
+	 <tr>
+                         
+	         <td>OBS</td>
+	         <td>Tutorial</td>
+	         <td> <video src="OBS (04).mp4"controls>
+                                  <p>Tu navegador no implementa el elemento Video</p>
+                         </td>
+                </tr>
+
+	 <tr>
+                         
+	         <td>OBS</td>
+	         <td>Tutorial</td>
+	         <td> <video src="OBS (05).mp4"controls>
+                                  <p>Tu navegador no implementa el elemento Video</p>
+                         </td>
+                </tr>
+
+	 <tr>
+                         
+	         <td>OBS</td>
+	         <td>Tutorial</td>
+	         <td> <video src="OBS (06).mp4"controls>
+                                  <p>Tu navegador no implementa el elemento Video</p>
+                         </td>
+                </tr>
+
+	 <tr>
+                         
+	         <td>OBS</td>
+	         <td>Tutorial</td>
+	         <td> <video src="OBS (08).mp4"controls>
+                                  <p>Tu navegador no implementa el elemento Video</p>
+                         </td>
+                </tr>
+
+	<tr>
+                         
+	         <td>OBS</td>
+	         <td>Tutorial</td>
+	         <td> <video src="OBS (10).mp4"controls>
+                                  <p>Tu navegador no implementa el elemento Video</p>
+                         </td>
+                </tr>
+
+	<tr>
+                         
+	         <td>OBS</td>
+	         <td>Tutorial</td>
+	         <td> <video src="OBS (11).mp4"controls>
+                                  <p>Tu navegador no implementa el elemento Video</p>
+                         </td>
+                </tr>
+
+	<tr>
+                         
+	         <td>OBS</td>
+	         <td>Tutorial</td>
+	         <td> <video src="OBS.mpeg.mp4"controls>
+                                  <p>Tu navegador no implementa el elemento Video</p>
+                         </td>
+                </tr>
+	</p>
+          </table>
+    
+  </body>
+</html>
